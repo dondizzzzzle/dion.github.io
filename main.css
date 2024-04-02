@@ -89,6 +89,26 @@ p {
     color:#000000;
 }
 
+#pata-intro {
+    background-color:white;
+    width:75%;
+    margin:auto;
+    margin-top:100px;
+    padding:20px;
+    color:#000000;
+    text-align:center;
+}
+
+#scifi-intro {
+    background-color:white;
+    width:75%;
+    margin:auto;
+    margin-top:100px;
+    padding:20px;
+    color:#000000;
+    text-align:center;
+}
+
 #intro img {
     float:left;
     margin-right:20px;
